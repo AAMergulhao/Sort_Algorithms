@@ -1,1 +1,1 @@
-Teste de velocidade com tempo de 30s como limite utilizando algoritmos de ordenação.
+Velocity test of sort algorithms on a 30 seconds mark.
